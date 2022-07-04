@@ -1,5 +1,14 @@
 # @kalmarv/prettier-config
 
+<p align="center">
+  <a href="https://github.com/Kalmarv/prettier-config/blob/main/LICENSE">
+    <img alt="license" src="https://badgen.net/github/license/kalmarv/prettier-config">
+  </a>
+   <a href="https://www.npmjs.com/package/@kalmarv/prettier-config">
+    <img alt="version" src="https://badgen.net/npm/v/@kalmarv/prettier-config">
+  </a>
+</p>
+
 Personal [Prettier](https://prettier.io/)
 [config](https://prettier.io/docs/en/configuration.html).
 
