@@ -1,0 +1,27 @@
+{
+  "name": "@kalmarv/prettier-config",
+  "version": "0.1",
+  "description": "Standardised code formatting",
+  "private": false,
+  "homepage": "https://github.com/kalmarv/prettier-config",
+  "author": {
+    "email": "59708937+Kalmarv@users.noreply.github.com",
+    "name": "Kalmarv"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalmarv/prettier-config"
+  },
+  "bugs": {
+    "url": "https://github.com/kalmarv/prettier-config/issues"
+  },
+  "keywords": [
+    "prettier",
+    "prettierrc"
+  ],
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
