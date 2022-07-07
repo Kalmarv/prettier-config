@@ -28,6 +28,15 @@ Reference `@kalmarv/prettier-config` in your `package.json`:
 }
 ```
 
+Or extend the configuration using .prettierrc.js:
+
+```js
+module.exports = {
+  ...require('@kalmarv/prettier-config'),
+  plugins: ['prettier-plugin-foo'],
+}
+```
+
 ## License
 
 [MIT][license]
