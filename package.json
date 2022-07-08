@@ -1,6 +1,6 @@
 {
   "name": "@kalmarv/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Standardised code formatting",
   "private": false,
   "homepage": "https://github.com/kalmarv/prettier-config",
@@ -21,10 +21,7 @@
     "prettierrc"
   ],
   "main": "index.js",
-  "peerDependencies": {
-    "prettier": "^2.7.1"
-  },
-  "devDependencies": {
+  "dependencies": {
     "prettier": "^2.7.1"
   }
 }

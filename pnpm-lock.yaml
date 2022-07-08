@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   prettier: ^2.7.1
 
-devDependencies:
+dependencies:
   prettier: 2.7.1
 
 packages:
@@ -12,4 +12,4 @@ packages:
     resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
     engines: {node: '>=10.13.0'}
     hasBin: true
-    dev: true
+    dev: false
